@@ -1,0 +1,38 @@
+﻿
+
+.divcenter {
+    top:150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Montserrat;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.roundone {
+}
+
+.button {
+    width: 219px;
+    background: #e03616;
+    font-size: large;
+    color: white;
+    margin: 9px;
+    font-weight: bold;
+    border: 2px solid #c11636;
+    height: 42px;
+    border-radius: 5px;
+}
+    .button:hover {
+        cursor: pointer;
+        background: #bb503c;
+    }
+
